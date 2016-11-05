@@ -1,3 +1,5 @@
+![VirginSuperHub](http://www.v2studios.com/img/projects/1370010668.jpg "VirginSuperHub")
+
 # VirginSuperHub-NOIP-Autoupdater
 I don't think too many people find this useful, but I decided to share the code non the less, in case somebody finds themselves in the same situation. If you are a Virgin Broadband customer with a Virgin SuperHub, you are using a VPN and want to use a Dynamic DNS service, such as no-ip.com, then this tool might be exactly what you are looking for. *If you happen to have a spare router that supports DDNS, you could also set your SuperHub to **modem only** mode and configure your spare router accordingly*.
 
