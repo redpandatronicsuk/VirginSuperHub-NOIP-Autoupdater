@@ -1,0 +1,11 @@
+{
+    "router-ip": "10.0.0.1",
+    "router-password": "MyPassword123$!",
+    "noip-hostname": "foo.ddns.net",
+    "noip-username": "bar@gmail.com",
+    "noip-password": "hgk%$675JHf-json",
+    "r": true,
+    "max-retries": 10,
+    "retry-delay": 30,
+    "check-frequency": 1
+}

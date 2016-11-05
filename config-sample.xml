@@ -1,0 +1,9 @@
+<router-ip>10.0.0.1</router-ip>
+<router-password>=MyPassword123$!</router-password>
+<noip-hostname>foo.ddns.net</noip-hostname>
+<noip-username>bar@gmail.com</noip-username>
+<noip-password>hgk%$675JHf-xml</noip-password>
+<r>true</r>
+<max-retries>10</max-retries>
+<retry-delay>30</retry-delay>
+<check-frequency>1</check-frequency>

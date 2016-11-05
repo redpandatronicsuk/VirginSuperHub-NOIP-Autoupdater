@@ -1,0 +1,11 @@
+# Sample YAML configuration file, set required values and rename to config.yaml.
+# For other configuration options, see https://github.com/redpandatronicsuk/VirginSuperHub-NOIP-Autoupdater
+router-ip: 10.0.0.1                     # router ip address
+router-password: MyPassword123$!        # router admin password
+noip-hostname: foo.ddns.net             # no-ip.com hostname
+noip-username: bar@gmail.com            # no-ip.com username
+noip-password: "hgk%$675JHf#r644fg"     # no-ip.com pasword
+r: true                                 # set false to disable retries on error 
+max-retries: 10                         # maximum number of retires to attempt
+retry-delay: 30                         # seconds to wait inbetween retries
+check-frequency: 1                      # how frquently to check for wan ip changes (in minutes)
